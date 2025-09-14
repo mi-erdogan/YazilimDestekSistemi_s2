@@ -1,5 +1,12 @@
 
 using NLog.Web;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using Microsoft.OpenApi.Models;
+using System.Text;
+using YazilimDestekSistemi.WebServis.Common.Helpers;
+using YazilimDestekSistemi.WebServis.Services.Interfaces;
+using YazilimDestekSistemi.WebServis.Services.Implementations;
 
 namespace YazilimDestekSistemi.WebServis
 {
@@ -30,7 +37,67 @@ namespace YazilimDestekSistemi.WebServis
                 builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
                 builder.Services.AddEndpointsApiExplorer();
-                builder.Services.AddSwaggerGen();
+
+            // Encryption settings and crypto service
+                builder.Services.Configure<EncryptionSettings>(builder.Configuration.GetSection("EncryptionSettings"));
+                builder.Services.AddScoped<IAesHmacService, AesHmacService>();
+
+            // Authentication (JWT)
+                builder.Services.AddAuthentication(options =>
+                {
+                    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+                })
+                .AddJwtBearer(options =>
+                {
+                    var secretKey = builder.Configuration["Jwt:SecretKey"];
+                    if (string.IsNullOrWhiteSpace(secretKey))
+                        throw new ArgumentNullException("Jwt:SecretKey yapılandırması eksik veya boş.");
+
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = false,
+                        ValidateAudience = false,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(secretKey))
+                    };
+                });
+
+            // Swagger with JWT security
+                builder.Services.AddSwaggerGen(c =>
+                {
+                    c.SwaggerDoc("v1", new OpenApiInfo
+                    {
+                        Title = "YDS API",
+                        Version = "v1",
+                        Description = "Yazılım Destek Sistemi için API Dokümantasyonu"
+                    });
+
+                    c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
+                    {
+                        Description = "JWT Authorization header using the Bearer scheme. Example: \"Authorization: Bearer {token}\"",
+                        Name = "Authorization",
+                        In = ParameterLocation.Header,
+                        Type = SecuritySchemeType.ApiKey,
+                        Scheme = "Bearer"
+                    });
+
+                    c.AddSecurityRequirement(new OpenApiSecurityRequirement
+                    {
+                        {
+                            new OpenApiSecurityScheme
+                            {
+                                Reference = new OpenApiReference
+                                {
+                                    Type = ReferenceType.SecurityScheme,
+                                    Id = "Bearer"
+                                }
+                            },
+                            Array.Empty<string>()
+                        }
+                    });
+                });
 
                 var app = builder.Build();
 
@@ -44,6 +111,8 @@ namespace YazilimDestekSistemi.WebServis
                 app.UseHttpsRedirection();
 
                 app.UseCors("AllowAll");
+
+                app.UseAuthentication();
 
                 app.UseAuthorization();
 
