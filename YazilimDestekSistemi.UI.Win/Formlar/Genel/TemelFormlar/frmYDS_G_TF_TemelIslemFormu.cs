@@ -201,7 +201,6 @@ namespace YazilimDestekSistemi.UI.Win.Formlar.Genel.TemelFormlar
                         break;
                 }
             }
-
         }
 
         private void frmYDS_G_TF_TemelIslemFormu_Load(object sender, EventArgs e)
@@ -385,7 +384,6 @@ namespace YazilimDestekSistemi.UI.Win.Formlar.Genel.TemelFormlar
         protected virtual bool VeriEkleme()
         {
             //return ((ITemelGenelBll)Bll).Ekle(YeniVeri);
-
             try
             {
                 bool sonuc = ((ITemelGenelBll)Bll).Ekle(YeniVeri);
