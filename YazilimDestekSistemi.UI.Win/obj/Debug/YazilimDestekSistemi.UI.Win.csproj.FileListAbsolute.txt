@@ -1,0 +1,140 @@
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.exe.config
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.exe
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Bll.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Common.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Model.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.DAL.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Data.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Bll.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Common.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Model.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.DAL.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Data.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.AssemblyReference.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_AnaForm.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_SistemGiris.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.TemelFormlar.frmYDS_G_TF_TemelIslemFormu.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.SistemYonetimi.frmYDS_SY_KullaniciGrupKartlari.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.SistemYonetimi.frmYDS_SY_KullaniciKartlari.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.XtraForm12.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.InsUpNavigator.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.LongNavigator.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.SmallNavigator.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Properties.Resources.resources
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.GenerateResource.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.licenses
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.CoreCompileInputs.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimD.973A3689.Up2Date
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.config
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.exe.config
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.exe
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.UI.Win.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.BonusSkins.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraBars.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraNavBar.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Bll.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Common.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Model.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.DAL.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Data.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Office.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Bll.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Common.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Model.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraBars.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraNavBar.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.DAL.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\YazilimDestekSistemi.Data.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Office.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.AssemblyReference.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.config
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_AnaForm.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_SistemGiris.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.TemelFormlar.frmYDS_G_TF_TemelIslemFormu.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.SistemYonetimi.frmYDS_SY_KullaniciGrupKartlari.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.SistemYonetimi.frmYDS_SY_KullaniciKartlari.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.XtraForm12.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.InsUpNavigator.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.LongNavigator.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Navigatorler.SmallNavigator.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Properties.Resources.resources
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.GenerateResource.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.licenses
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.CoreCompileInputs.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimD.973A3689.Up2Date
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.pdb

@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.props" Condition="Exists('..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AEC93513-0F3C-463D-976F-04E07B02F79B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>YazilimDestekSistemi.UI.Win</RootNamespace>
+    <AssemblyName>YazilimDestekSistemi.UI.Win</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Drawing.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v23.1.Core, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v23.1, Version=23.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arayuzler\IStatusBarAciklama.cs" />
+    <Compile Include="Arayuzler\IStatusBarKisaYol.cs" />
+    <Compile Include="Arayuzler\ITabloBaglantisi.cs" />
+    <Compile Include="Arayuzler\ITabloKolonBaglantisi.cs" />
+    <Compile Include="Arayuzler\ITemizlenebilir.cs" />
+    <Compile Include="Fonksiyonlar\BaglantiBilgileri.cs" />
+    <Compile Include="Fonksiyonlar\DosyaIslemleri.cs" />
+    <Compile Include="Fonksiyonlar\DosyaTuru.cs" />
+    <Compile Include="Fonksiyonlar\FiltreFonksiyonlari.cs" />
+    <Compile Include="Fonksiyonlar\GenelFonksiyonlar.cs" />
+    <Compile Include="Fonksiyonlar\KullaniciBilgileri.cs" />
+    <Compile Include="Fonksiyonlar\MesajKutusu.cs" />
+    <Compile Include="Fonksiyonlar\SecimFonksiyonlari.cs" />
+    <Compile Include="Fonksiyonlar\SuperToolTip.cs" />
+    <Compile Include="Formlar\Genel\frmYDS_G_AnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Genel\frmYDS_G_AnaForm.Designer.cs">
+      <DependentUpon>frmYDS_G_AnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Genel\frmYDS_G_SistemGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Genel\frmYDS_G_SistemGiris.Designer.cs">
+      <DependentUpon>frmYDS_G_SistemGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\Genel\TemelFormlar\frmYDS_G_TF_TemelIslemFormu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\Genel\TemelFormlar\frmYDS_G_TF_TemelIslemFormu.Designer.cs">
+      <DependentUpon>frmYDS_G_TF_TemelIslemFormu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciGrupKartlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciGrupKartlari.Designer.cs">
+      <DependentUpon>frmYDS_SY_KullaniciGrupKartlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciKartlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciKartlari.Designer.cs">
+      <DependentUpon>frmYDS_SY_KullaniciKartlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\XtraForm12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\XtraForm12.Designer.cs">
+      <DependentUpon>XtraForm12.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Goster\FormDetaylariniGoster.cs" />
+    <Compile Include="Goster\TabloVerileriniKontroleAktar.cs" />
+    <Compile Include="Goster\Temel\ITemelFormDetayGoster.cs" />
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsDataLayoutControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsGrupControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsPictureEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsBaslikLabelControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsBaslikTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsButtonEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsCalcEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsCheckedComboBoxEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsCheckEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsComboBoxEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsDateEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsEPostaTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsKodTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsMemoEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsSimpleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsSpinEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsTabPane.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsTcKimlikNoTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsTelefonNoTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Kontroller\YdsToggleSwitch.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\InsUpNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\InsUpNavigator.Designer.cs">
+      <DependentUpon>InsUpNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\LongNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\LongNavigator.Designer.cs">
+      <DependentUpon>LongNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\SmallNavigator.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Navigatorler\SmallNavigator.Designer.cs">
+      <DependentUpon>SmallNavigator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Tablolar\YdsBandedGridControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KullaniciKontrolleri\Tablolar\YdsGridControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formlar\Genel\frmYDS_G_AnaForm.resx">
+      <DependentUpon>frmYDS_G_AnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Genel\frmYDS_G_SistemGiris.resx">
+      <DependentUpon>frmYDS_G_SistemGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\Genel\TemelFormlar\frmYDS_G_TF_TemelIslemFormu.resx">
+      <DependentUpon>frmYDS_G_TF_TemelIslemFormu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciGrupKartlari.resx">
+      <DependentUpon>frmYDS_SY_KullaniciGrupKartlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\SistemYonetimi\frmYDS_SY_KullaniciKartlari.resx">
+      <DependentUpon>frmYDS_SY_KullaniciKartlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\XtraForm12.resx">
+      <DependentUpon>XtraForm12.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciKontrolleri\Navigatorler\InsUpNavigator.resx">
+      <DependentUpon>InsUpNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciKontrolleri\Navigatorler\LongNavigator.resx">
+      <DependentUpon>LongNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciKontrolleri\Navigatorler\SmallNavigator.resx">
+      <DependentUpon>SmallNavigator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Formlar\Genel\FormDetaylar\" />
+    <Folder Include="Formlar\UzakDestek\" />
+    <Folder Include="Formlar\YazilimDestek\" />
+    <Folder Include="Formlar\YdsRaporlar\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\security_fingerprint.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close_32x321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\apply_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\newfeed_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editfeed_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reset_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\comment_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\suggestion_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boscheduler_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\windows_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ide_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\project_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\example_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\record_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\design_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-tab.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borules_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bouser_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editcontact_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictureshapeoutlinecolor_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usergroup_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editcontact_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pictureshapeoutlinecolor_16x161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listbullets_righttoleft_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\listmultilevel_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\showproduct_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borole_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\build_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chartsshowlegend_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\version_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selectdatamember_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\YazilimDestekSistemi.Bll\YazilimDestekSistemi.Bll.csproj">
+      <Project>{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}</Project>
+      <Name>YazilimDestekSistemi.Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YazilimDestekSistemi.Common\YazilimDestekSistemi.Common.csproj">
+      <Project>{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}</Project>
+      <Name>YazilimDestekSistemi.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YazilimDestekSistemi.Model\YazilimDestekSistemi.Model.csproj">
+      <Project>{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}</Project>
+      <Name>YazilimDestekSistemi.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.targets" Condition="Exists('..\Yazılım Destek Sistemi\packages\EntityFramework.6.4.4\build\EntityFramework.targets')" />
+</Project>

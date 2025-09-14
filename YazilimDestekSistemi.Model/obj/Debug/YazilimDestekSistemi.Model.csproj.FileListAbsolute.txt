@@ -1,0 +1,22 @@
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\YazilimDestekSistemi.Model.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\YazilimDestekSistemi.Model.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.csproj.AssemblyReference.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.csproj.CoreCompileInputs.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimD.C8EB646E.Up2Date
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\YazilimDestekSistemi.Model.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\YazilimDestekSistemi.Model.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.csproj.AssemblyReference.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.csproj.CoreCompileInputs.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimD.C8EB646E.Up2Date
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Model\obj\Debug\YazilimDestekSistemi.Model.pdb

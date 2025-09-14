@@ -1,0 +1,50 @@
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\YazilimDestekSistemi.Common.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\YazilimDestekSistemi.Common.pdb
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.csproj.AssemblyReference.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.csproj.CoreCompileInputs.cache
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimD.8EA8EF76.Up2Date
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.dll
+C:\Users\Mİ\OneDrive\2. Kurumsal\1. Mühür Yazılım\2. Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\YazilimDestekSistemi.Common.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\YazilimDestekSistemi.Common.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Utils.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Drawing.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Utils.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Drawing.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.csproj.AssemblyReference.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.csproj.CoreCompileInputs.cache
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimD.8EA8EF76.Up2Date
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.pdb
