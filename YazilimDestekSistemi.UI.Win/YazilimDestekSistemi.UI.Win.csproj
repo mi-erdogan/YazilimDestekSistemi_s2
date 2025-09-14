@@ -97,6 +97,7 @@
     <Compile Include="Fonksiyonlar\MesajKutusu.cs" />
     <Compile Include="Fonksiyonlar\SecimFonksiyonlari.cs" />
     <Compile Include="Fonksiyonlar\SuperToolTip.cs" />
+    <Compile Include="Fonksiyonlar\YardimciFonksiyonlar.cs" />
     <Compile Include="Formlar\Genel\frmYDS_G_AnaForm.cs">
       <SubType>Form</SubType>
     </Compile>

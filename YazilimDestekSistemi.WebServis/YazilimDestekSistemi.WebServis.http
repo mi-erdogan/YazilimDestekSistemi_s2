@@ -1,0 +1,6 @@
+@YazilimDestekSistemi.WebServis_HostAddress = http://localhost:5115
+
+GET {{YazilimDestekSistemi.WebServis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
