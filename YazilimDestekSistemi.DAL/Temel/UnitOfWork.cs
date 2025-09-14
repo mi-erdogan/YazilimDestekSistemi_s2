@@ -1,19 +1,22 @@
-﻿using System;
+using System;
 using System.Data.Entity;
 using System.Data.Entity.Infrastructure;
 using System.Data.SqlClient;
 using YazilimDestekSistemi.Common.MesajKutulari;
 using YazilimDestekSistemi.DAL.Arayuzler;
+using NLog;
 
 namespace YazilimDestekSistemi.DAL.Temel
 {
     public class UnitOfWork<T> : IUnitOfWork<T> where T : class
     {
+        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
         private readonly DbContext _baglam;
         public UnitOfWork(DbContext baglam)
         {
-            if (baglam == null) return;
+            if (baglam == null) throw new ArgumentNullException(nameof(baglam));
             _baglam = baglam;
+            try { Logger.Debug("UnitOfWork olusturuldu: {context}", _baglam.GetType().Name); } catch { }
         }
 
         public IRepository<T> Rep => new Repository<T>(_baglam); // => return demek.
@@ -22,10 +25,13 @@ namespace YazilimDestekSistemi.DAL.Temel
         {
             try
             {
+                try { Logger.Debug("SaveChanges cagrildi"); } catch { }
                 _baglam.SaveChanges();
+                try { Logger.Debug("SaveChanges tamamlandi"); } catch { }
             }
             catch (DbUpdateException ex)
             {
+                try { Logger.Error(ex, "DbUpdateException"); } catch { }
                 var sqlEx = (SqlException)ex.InnerException?.InnerException;
 
                 if (sqlEx == null)
@@ -109,6 +115,7 @@ namespace YazilimDestekSistemi.DAL.Temel
             }
             catch (Exception ex)
             {
+                try { Logger.Error(ex, "SaveChanges genel hata"); } catch { }
                 Mesajlar.HataMesaji(ex.Message);
                 //frmMOS_G_MesajKutusu frmMOS_G_MK = new frmMOS_G_MesajKutusu(3, 1, "Hata Mesajı", "", "Veritabanı", " H00001", "SqlException Hatası",
                 //                                                                                                                                                                                          ex.Message,
