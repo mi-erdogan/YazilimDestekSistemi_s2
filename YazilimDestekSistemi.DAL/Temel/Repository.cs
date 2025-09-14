@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
@@ -6,11 +6,13 @@ using System.Linq.Expressions;
 using YazilimDestekSistemi.Common.Fonksiyonlar;
 using YazilimDestekSistemi.Common.Numaralandirmalar;
 using YazilimDestekSistemi.DAL.Arayuzler;
+using NLog;
 
 namespace YazilimDestekSistemi.DAL.Temel
 {
     public class Repository<T> : IRepository<T> where T : class
     {
+        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
         private readonly DbContext _baglam;
         private readonly DbSet<T> _vtSet;
 
@@ -25,7 +27,15 @@ namespace YazilimDestekSistemi.DAL.Temel
 
         public void Ekle(T veri)
         {
-            _baglam.Entry(veri).State = EntityState.Added;
+            try
+            {
+                _baglam.Entry(veri).State = EntityState.Added;
+            }
+            catch (Exception ex)
+            {
+                try { Logger.Error(ex, "Ekle hatasi"); } catch { }
+                throw;
+            }
         }
 
         public void Ekle(IEnumerable<T> veriler)
@@ -37,7 +47,15 @@ namespace YazilimDestekSistemi.DAL.Temel
 
         public void Guncelle(T veri)
         {
-            _baglam.Entry(veri).State = EntityState.Modified;
+            try
+            {
+                _baglam.Entry(veri).State = EntityState.Modified;
+            }
+            catch (Exception ex)
+            {
+                try { Logger.Error(ex, "Guncelle hatasi"); } catch { }
+                throw;
+            }
         }
 
         public void Guncelle(T veri, IEnumerable<string> degisenAlanlar)
@@ -57,7 +75,15 @@ namespace YazilimDestekSistemi.DAL.Temel
 
         public void Sil(T veri)
         {
-            _baglam.Entry(veri).State = EntityState.Deleted;
+            try
+            {
+                _baglam.Entry(veri).State = EntityState.Deleted;
+            }
+            catch (Exception ex)
+            {
+                try { Logger.Error(ex, "Sil hatasi"); } catch { }
+                throw;
+            }
         }
 
         public void Sil(IEnumerable<T> veriler)

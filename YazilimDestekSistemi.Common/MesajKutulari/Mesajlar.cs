@@ -1,16 +1,20 @@
-﻿using DevExpress.XtraEditors;
+using DevExpress.XtraEditors;
 using System.Windows.Forms;
+using NLog;
 
 namespace YazilimDestekSistemi.Common.MesajKutulari
 {
     public class Mesajlar
     {
+        private static readonly Logger Logger = LogManager.GetCurrentClassLogger();
         public static void HataMesaji(string hataMesaji)
         {
+            try { Logger.Error(hataMesaji); } catch { }
             XtraMessageBox.Show(hataMesaji, "Hata Mesajı", MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
         public static void UyariMesaji(string uyariMesaji)
         {
+            try { Logger.Warn(uyariMesaji); } catch { }
             XtraMessageBox.Show(uyariMesaji, "Uyarı Mesajı", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
@@ -36,6 +40,7 @@ namespace YazilimDestekSistemi.Common.MesajKutulari
 
         public static DialogResult Sil(string kartAdi)
         {
+            try { Logger.Info("Silme onayı istendi: {kart}", kartAdi); } catch { }
             return HayirSeciliEvetHayir($"Seçtiğiniz {kartAdi} Silinecektir. Onaylıyor Musunuz :?", "Silme Onayı");
         }
 
@@ -51,6 +56,7 @@ namespace YazilimDestekSistemi.Common.MesajKutulari
 
         public static void KartSecmemeUyariMesaji()
         {
+            try { Logger.Warn("Kart seçilmedi uyarısı gösterildi"); } catch { }
             UyariMesaji("Lütfen bir Kart seçiniz.");
         }
 
