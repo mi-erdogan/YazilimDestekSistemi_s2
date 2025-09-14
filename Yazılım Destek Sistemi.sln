@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.Dal", "..\YazilimDestekSistemi.DAL\YazilimDestekSistemi.Dal.csproj", "{606EB495-26ED-43C7-8065-468BA99F7E3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.Bll", "..\YazilimDestekSistemi.Bll\YazilimDestekSistemi.Bll.csproj", "{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.UI.Win", "..\YazilimDestekSistemi.UI.Win\YazilimDestekSistemi.UI.Win.csproj", "{AEC93513-0F3C-463D-976F-04E07B02F79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.Data", "..\YazilimDestekSistemi.Data\YazilimDestekSistemi.Data.csproj", "{3D06C343-C3B3-4A6A-81AA-2E81E4E6DD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.Model", "..\YazilimDestekSistemi.Model\YazilimDestekSistemi.Model.csproj", "{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazilimDestekSistemi.Common", "..\YazilimDestekSistemi.Common\YazilimDestekSistemi.Common.csproj", "{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{606EB495-26ED-43C7-8065-468BA99F7E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606EB495-26ED-43C7-8065-468BA99F7E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606EB495-26ED-43C7-8065-468BA99F7E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606EB495-26ED-43C7-8065-468BA99F7E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AB68B8-46BB-4FC2-8861-E1E1665C04D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC93513-0F3C-463D-976F-04E07B02F79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC93513-0F3C-463D-976F-04E07B02F79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC93513-0F3C-463D-976F-04E07B02F79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC93513-0F3C-463D-976F-04E07B02F79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D06C343-C3B3-4A6A-81AA-2E81E4E6DD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D06C343-C3B3-4A6A-81AA-2E81E4E6DD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D06C343-C3B3-4A6A-81AA-2E81E4E6DD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D06C343-C3B3-4A6A-81AA-2E81E4E6DD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC06972C-7D8E-40B5-AF40-B5AE2E07DE05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9CCA48D-1D51-4087-9FD7-2DA503EF4624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBA82CDF-3EF6-4A05-B42C-CEC2C95BBE91}
+	EndGlobalSection
+EndGlobal
