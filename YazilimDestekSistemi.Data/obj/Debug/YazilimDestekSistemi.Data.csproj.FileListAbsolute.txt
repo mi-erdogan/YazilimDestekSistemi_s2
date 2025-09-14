@@ -24,3 +24,5 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\obj\Debug\Yaz
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\obj\Debug\YazilimD.0DE28C47.Up2Date
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\obj\Debug\YazilimDestekSistemi.Data.dll
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\obj\Debug\YazilimDestekSistemi.Data.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\bin\Debug\NLog.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Data\bin\Debug\NLog.xml

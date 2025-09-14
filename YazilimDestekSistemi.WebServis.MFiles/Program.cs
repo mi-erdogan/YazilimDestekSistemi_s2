@@ -1,4 +1,6 @@
 
+using NLog.Web;
+
 namespace YazilimDestekSistemi.WebServis.MFiles
 {
     public class Program

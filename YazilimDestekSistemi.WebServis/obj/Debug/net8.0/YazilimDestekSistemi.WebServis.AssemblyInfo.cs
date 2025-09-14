@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YazilimDestekSistemi.WebServis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c466d2e884f96d8af2e08048fa1eee595da9042")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd1546d939aff8210c8623df9a36d7a5316df438")]
 [assembly: System.Reflection.AssemblyProductAttribute("YazilimDestekSistemi.WebServis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YazilimDestekSistemi.WebServis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

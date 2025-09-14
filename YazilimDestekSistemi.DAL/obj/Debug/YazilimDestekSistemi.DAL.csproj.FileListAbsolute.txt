@@ -60,3 +60,5 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\obj\Debug\Yazi
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\obj\Debug\YazilimD.DCDA4BFF.Up2Date
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\obj\Debug\YazilimDestekSistemi.DAL.dll
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\obj\Debug\YazilimDestekSistemi.DAL.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\bin\Debug\NLog.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.DAL\bin\Debug\NLog.xml

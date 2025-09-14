@@ -121,7 +121,6 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\D
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\DevExpress.Office.v23.1.Core.xml
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.csproj.AssemblyReference.cache
-C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.config
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_AnaForm.resources
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.frmYDS_G_SistemGiris.resources
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.Formlar.Genel.TemelFormlar.frmYDS_G_TF_TemelIslemFormu.resources
@@ -138,3 +137,7 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\Y
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimD.973A3689.Up2Date
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\nlog.config
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\NLog.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\bin\Debug\NLog.xml
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.UI.Win\obj\Debug\YazilimDestekSistemi.UI.Win.exe.config

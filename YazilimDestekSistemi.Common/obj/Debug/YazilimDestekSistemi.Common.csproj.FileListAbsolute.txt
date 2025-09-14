@@ -48,3 +48,5 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\Y
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimD.8EA8EF76.Up2Date
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.dll
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\obj\Debug\YazilimDestekSistemi.Common.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\NLog.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Common\bin\Debug\NLog.xml

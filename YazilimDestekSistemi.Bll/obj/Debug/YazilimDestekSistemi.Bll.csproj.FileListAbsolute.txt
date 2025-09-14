@@ -72,3 +72,5 @@ C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\obj\Debug\Yazi
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\obj\Debug\YazilimD.C587B312.Up2Date
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\obj\Debug\YazilimDestekSistemi.Bll.dll
 C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\obj\Debug\YazilimDestekSistemi.Bll.pdb
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\bin\Debug\NLog.dll
+C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.Bll\bin\Debug\NLog.xml
