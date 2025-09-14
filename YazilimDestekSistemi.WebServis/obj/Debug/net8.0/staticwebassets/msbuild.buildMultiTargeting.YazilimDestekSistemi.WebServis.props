@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/YazilimDestekSistemi.WebServis.props" />
+</Project>

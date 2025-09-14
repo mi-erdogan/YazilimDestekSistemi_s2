@@ -1,1 +1,11 @@
-{"Version":1,"Hash":"s17xOeyqAXHRwYKMx9OlT4lZSZ+iS/MKiyVqI1mosoc=","Source":"YazilimDestekSistemi.WebServis","BasePath":"_content/YazilimDestekSistemi.WebServis","Mode":"Default","ManifestType":"Build","ReferencedProjectsConfiguration":[],"DiscoveryPatterns":[],"Assets":[],"Endpoints":[]}
+{
+  "Version": 1,
+  "Hash": "qwwC2IajwVFCSF3jXJthqdj6NcTIyH96nbV4Zhkcsx4=",
+  "Source": "YazilimDestekSistemi.WebServis",
+  "BasePath": "_content/YazilimDestekSistemi.WebServis",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
