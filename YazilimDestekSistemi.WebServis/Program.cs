@@ -15,6 +15,17 @@ namespace YazilimDestekSistemi.WebServis
                 builder.Host.UseNLog();
 
             // Add services to the container.
+                builder.Services.AddCors(options =>
+                {
+                    options.AddPolicy("AllowAll", policy =>
+                    {
+                        policy.AllowAnyOrigin()
+                              .AllowAnyHeader()
+                              .AllowAnyMethod();
+                    });
+                });
+
+                builder.Services.AddHealthChecks();
 
                 builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -32,10 +43,13 @@ namespace YazilimDestekSistemi.WebServis
 
                 app.UseHttpsRedirection();
 
+                app.UseCors("AllowAll");
+
                 app.UseAuthorization();
 
 
                 app.MapControllers();
+                app.MapHealthChecks("/health");
 
                 app.Run();
             }
