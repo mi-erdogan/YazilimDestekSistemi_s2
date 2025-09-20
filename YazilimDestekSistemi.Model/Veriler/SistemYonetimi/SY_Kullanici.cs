@@ -36,7 +36,7 @@ namespace YazilimDestekSistemi.Model.Veriler.SistemYonetimi
 
         public long? SY_KullaniciGrupId { get; set; }
 
-
+        [ForeignKey("SY_KullaniciGrupId")]
         public SY_KullaniciGrup SY_KullaniciGrup { get; set; }
     }
 }

@@ -1,0 +1,26 @@
+2025-09-14 22:44:01.4493|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:7255 
+2025-09-14 22:44:01.4591|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5115 
+2025-09-14 22:44:01.4967|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2025-09-14 22:44:01.4981|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2025-09-14 22:44:01.4981|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Projeler\13. Yazılım Destek Sistemi\YazilimDestekSistemi.WebServis 
+2025-09-14 22:44:02.8946|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7255/swagger/index.html - - - 
+2025-09-14 22:44:03.0937|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7255/swagger/index.html - 200 - text/html;charset=utf-8 205.7406ms 
+2025-09-14 22:44:03.1100|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7255/_vs/browserLink - - - 
+2025-09-14 22:44:03.1960|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7255/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 86.1414ms 
+2025-09-14 22:44:03.2621|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7255/swagger/v1/swagger.json - - - 
+2025-09-14 22:44:03.2790|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7255/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 17.1623ms 
+2025-09-14 22:44:22.8409|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 POST https://localhost:7255/api/Users - application/json 11 
+2025-09-14 22:44:22.8478|INFO|Microsoft.AspNetCore.Cors.Infrastructure.CorsService|CORS policy execution successful. 
+2025-09-14 22:44:22.8478|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'YazilimDestekSistemi.WebServis.Controllers.UsersController.Create (YazilimDestekSistemi.WebServis)' 
+2025-09-14 22:44:22.8746|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Create", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Create(System.Object) on controller YazilimDestekSistemi.WebServis.Controllers.UsersController (YazilimDestekSistemi.WebServis). 
+2025-09-14 22:44:22.9308|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing CreatedAtActionResult, writing value of type 'System.Text.Json.JsonElement'. 
+2025-09-14 22:44:22.9643|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action YazilimDestekSistemi.WebServis.Controllers.UsersController.Create (YazilimDestekSistemi.WebServis) in 82.8191ms 
+2025-09-14 22:44:22.9643|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'YazilimDestekSistemi.WebServis.Controllers.UsersController.Create (YazilimDestekSistemi.WebServis)' 
+2025-09-14 22:44:22.9643|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 POST https://localhost:7255/api/Users - 201 - application/json;+charset=utf-8 124.7832ms 
+2025-09-14 22:44:34.4914|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:7255/api/Users/1 - - - 
+2025-09-14 22:44:34.4914|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'YazilimDestekSistemi.WebServis.Controllers.UsersController.GetById (YazilimDestekSistemi.WebServis)' 
+2025-09-14 22:44:34.4979|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "GetById", controller = "Users"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetById(Int32) on controller YazilimDestekSistemi.WebServis.Controllers.UsersController (YazilimDestekSistemi.WebServis). 
+2025-09-14 22:44:34.4979|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing OkObjectResult, writing value of type '<>f__AnonymousType1`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2025-09-14 22:44:34.4979|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action YazilimDestekSistemi.WebServis.Controllers.UsersController.GetById (YazilimDestekSistemi.WebServis) in 4.9743ms 
+2025-09-14 22:44:34.4979|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'YazilimDestekSistemi.WebServis.Controllers.UsersController.GetById (YazilimDestekSistemi.WebServis)' 
+2025-09-14 22:44:34.4979|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:7255/api/Users/1 - 200 - application/json;+charset=utf-8 12.8340ms 

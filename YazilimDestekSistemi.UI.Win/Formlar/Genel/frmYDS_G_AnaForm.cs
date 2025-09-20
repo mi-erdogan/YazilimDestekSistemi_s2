@@ -192,6 +192,16 @@ namespace YazilimDestekSistemi.UI.Win.Formlar.Genel
             }
         }
 
+        private void btnSekmeyiKapat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            var aktifForm = this.ActiveMdiChild;
+
+            if (aktifForm != null && aktifForm.Name != "frmMOS_SK_I_Baslangic")
+            {
+                aktifForm.Close();
+            }
+        }
+
         private void btnAktifSekmeHaricTumSekmeleriKapat_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             foreach (Form childForm in this.MdiChildren)
@@ -249,5 +259,6 @@ namespace YazilimDestekSistemi.UI.Win.Formlar.Genel
         {
             FormuAc<frmYDS_SY_KullaniciGrupKartlari>("frmYDS_SY_KullaniciGrupKartlari");
         }
+
     }
 }

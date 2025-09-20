@@ -9,7 +9,7 @@ namespace YazilimDestekSistemi.Model.Dto.SistemYonetimi
     {
         public string KullaniciGrupAdi { get; set; }
     }
-    [NotMapped]
+
     public class SY_KullaniciL : SY_KullaniciT
     {
         public string KullaniciAdi { get; set; }

@@ -30,72 +30,72 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmYDS_G_AnaForm));
-            DevExpress.XtraLayout.ColumnDefinition columnDefinition3 = new DevExpress.XtraLayout.ColumnDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition65 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition66 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition67 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition68 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition69 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition70 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition71 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition72 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition73 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition74 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition75 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition76 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition77 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition78 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition79 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition80 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition81 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition82 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition83 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition84 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition85 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition86 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition87 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition88 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition89 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition90 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition91 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition92 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition93 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition94 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition95 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition96 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.ColumnDefinition columnDefinition4 = new DevExpress.XtraLayout.ColumnDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition97 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition98 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition99 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition100 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition101 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition102 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition103 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition104 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition105 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition106 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition107 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition108 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition109 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition110 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition111 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition112 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition113 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition114 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition115 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition116 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition117 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition118 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition119 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition120 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition121 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition122 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition123 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition124 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition125 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition126 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition127 = new DevExpress.XtraLayout.RowDefinition();
-            DevExpress.XtraLayout.RowDefinition rowDefinition128 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.ColumnDefinition columnDefinition1 = new DevExpress.XtraLayout.ColumnDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition1 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition2 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition3 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition4 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition5 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition6 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition7 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition8 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition9 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition10 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition11 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition12 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition13 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition14 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition15 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition16 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition17 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition18 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition19 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition20 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition21 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition22 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition23 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition24 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition25 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition26 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition27 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition28 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition29 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition30 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition31 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition32 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.ColumnDefinition columnDefinition2 = new DevExpress.XtraLayout.ColumnDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition33 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition34 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition35 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition36 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition37 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition38 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition39 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition40 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition41 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition42 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition43 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition44 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition45 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition46 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition47 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition48 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition49 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition50 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition51 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition52 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition53 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition54 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition55 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition56 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition57 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition58 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition59 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition60 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition61 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition62 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition63 = new DevExpress.XtraLayout.RowDefinition();
+            DevExpress.XtraLayout.RowDefinition rowDefinition64 = new DevExpress.XtraLayout.RowDefinition();
             this.xtraTabbedMdiManager = new DevExpress.XtraTabbedMdi.XtraTabbedMdiManager(this.components);
             this.dockManager1 = new DevExpress.XtraBars.Docking.DockManager(this.components);
             this.panelContainer1 = new DevExpress.XtraBars.Docking.DockPanel();
@@ -150,6 +150,8 @@
             this.btnYetkiListesi = new DevExpress.XtraNavBar.NavBarItem();
             this.btnVtMonitor = new DevExpress.XtraNavBar.NavBarItem();
             this.btnSurumListesi = new DevExpress.XtraNavBar.NavBarItem();
+            this.navBarSeparatorItem1 = new DevExpress.XtraNavBar.NavBarSeparatorItem();
+            this.btnYetkileriGuncelle = new DevExpress.XtraNavBar.NavBarItem();
             this.dpAcikEkranlar = new DevExpress.XtraBars.Docking.DockPanel();
             this.dockPanel1_Container = new DevExpress.XtraBars.Docking.ControlContainer();
             this.nbAcikEkranlar = new DevExpress.XtraNavBar.NavBarControl();
@@ -165,6 +167,7 @@
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
             this.btnAktifSekmeHaricTumSekmeleriKapat = new DevExpress.XtraBars.BarButtonItem();
             this.btnTumSekmeleriKapat = new DevExpress.XtraBars.BarButtonItem();
+            this.btnSekmeyiKapat = new DevExpress.XtraBars.BarButtonItem();
             this.txtUnvani = new YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Kontroller.YdsTextEdit();
             this.txtGorevi = new YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Kontroller.YdsTextEdit();
             this.txtKullaniciGrubu = new YazilimDestekSistemi.UI.Win.KullaniciKontrolleri.Kontroller.YdsTextEdit();
@@ -462,7 +465,9 @@
             this.btnSistemParametreListesi,
             this.btnYetkiListesi,
             this.btnVtMonitor,
-            this.btnSurumListesi});
+            this.btnSurumListesi,
+            this.navBarSeparatorItem1,
+            this.btnYetkileriGuncelle});
             this.nbMenu.Location = new System.Drawing.Point(0, 0);
             this.nbMenu.LookAndFeel.SkinName = "Caramel";
             this.nbMenu.LookAndFeel.UseDefaultLookAndFeel = false;
@@ -722,7 +727,9 @@
             new DevExpress.XtraNavBar.NavBarItemLink(this.btnSistemParametreListesi),
             new DevExpress.XtraNavBar.NavBarItemLink(this.btnYetkiListesi),
             new DevExpress.XtraNavBar.NavBarItemLink(this.btnVtMonitor),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.btnSurumListesi)});
+            new DevExpress.XtraNavBar.NavBarItemLink(this.btnSurumListesi),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.navBarSeparatorItem1),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.btnYetkileriGuncelle)});
             this.nbgSistemYonetimi.Name = "nbgSistemYonetimi";
             // 
             // btnKullaniciKartlari
@@ -882,6 +889,20 @@
             this.btnSurumListesi.ImageOptions.SmallImage = global::YazilimDestekSistemi.UI.Win.Properties.Resources.version_16x16;
             this.btnSurumListesi.Name = "btnSurumListesi";
             // 
+            // navBarSeparatorItem1
+            // 
+            this.navBarSeparatorItem1.CanDrag = false;
+            this.navBarSeparatorItem1.Enabled = false;
+            this.navBarSeparatorItem1.Hint = null;
+            this.navBarSeparatorItem1.Name = "navBarSeparatorItem1";
+            // 
+            // btnYetkileriGuncelle
+            // 
+            this.btnYetkileriGuncelle.Caption = "Yetkileri Güncelle";
+            this.btnYetkileriGuncelle.ImageOptions.LargeImage = global::YazilimDestekSistemi.UI.Win.Properties.Resources.refresh2_16x16;
+            this.btnYetkileriGuncelle.ImageOptions.SmallImage = global::YazilimDestekSistemi.UI.Win.Properties.Resources.refresh2_16x16;
+            this.btnYetkileriGuncelle.Name = "btnYetkileriGuncelle";
+            // 
             // dpAcikEkranlar
             // 
             this.dpAcikEkranlar.Controls.Add(this.dockPanel1_Container);
@@ -1034,8 +1055,9 @@
             this.barManager1.Form = this;
             this.barManager1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
             this.btnAktifSekmeHaricTumSekmeleriKapat,
-            this.btnTumSekmeleriKapat});
-            this.barManager1.MaxItemId = 2;
+            this.btnTumSekmeleriKapat,
+            this.btnSekmeyiKapat});
+            this.barManager1.MaxItemId = 3;
             // 
             // barDockControlTop
             // 
@@ -1043,7 +1065,7 @@
             this.barDockControlTop.Dock = System.Windows.Forms.DockStyle.Top;
             this.barDockControlTop.Location = new System.Drawing.Point(0, 0);
             this.barDockControlTop.Manager = this.barManager1;
-            this.barDockControlTop.Size = new System.Drawing.Size(1487, 0);
+            this.barDockControlTop.Size = new System.Drawing.Size(1186, 0);
             // 
             // barDockControlBottom
             // 
@@ -1051,7 +1073,7 @@
             this.barDockControlBottom.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.barDockControlBottom.Location = new System.Drawing.Point(0, 765);
             this.barDockControlBottom.Manager = this.barManager1;
-            this.barDockControlBottom.Size = new System.Drawing.Size(1487, 0);
+            this.barDockControlBottom.Size = new System.Drawing.Size(1186, 0);
             // 
             // barDockControlLeft
             // 
@@ -1065,7 +1087,7 @@
             // 
             this.barDockControlRight.CausesValidation = false;
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
-            this.barDockControlRight.Location = new System.Drawing.Point(1487, 0);
+            this.barDockControlRight.Location = new System.Drawing.Point(1186, 0);
             this.barDockControlRight.Manager = this.barManager1;
             this.barDockControlRight.Size = new System.Drawing.Size(0, 765);
             // 
@@ -1073,6 +1095,14 @@
             // 
             this.btnAktifSekmeHaricTumSekmeleriKapat.Caption = "Aktif Sekme Hariç Tüm Sekmeleri Kapat";
             this.btnAktifSekmeHaricTumSekmeleriKapat.Id = 0;
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Hovered.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Hovered.ForeColor = System.Drawing.Color.Maroon;
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Hovered.Options.UseFont = true;
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Hovered.Options.UseForeColor = true;
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Normal.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Normal.Options.UseFont = true;
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Pressed.Font = new System.Drawing.Font("Jura", 13F);
+            this.btnAktifSekmeHaricTumSekmeleriKapat.ItemAppearance.Pressed.Options.UseFont = true;
             this.btnAktifSekmeHaricTumSekmeleriKapat.Name = "btnAktifSekmeHaricTumSekmeleriKapat";
             this.btnAktifSekmeHaricTumSekmeleriKapat.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnAktifSekmeHaricTumSekmeleriKapat_ItemClick);
             // 
@@ -1080,8 +1110,31 @@
             // 
             this.btnTumSekmeleriKapat.Caption = "Tüm Sekmeleri Kapat";
             this.btnTumSekmeleriKapat.Id = 1;
+            this.btnTumSekmeleriKapat.ItemAppearance.Hovered.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnTumSekmeleriKapat.ItemAppearance.Hovered.ForeColor = System.Drawing.Color.Maroon;
+            this.btnTumSekmeleriKapat.ItemAppearance.Hovered.Options.UseFont = true;
+            this.btnTumSekmeleriKapat.ItemAppearance.Hovered.Options.UseForeColor = true;
+            this.btnTumSekmeleriKapat.ItemAppearance.Normal.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnTumSekmeleriKapat.ItemAppearance.Normal.Options.UseFont = true;
+            this.btnTumSekmeleriKapat.ItemAppearance.Pressed.Font = new System.Drawing.Font("Jura", 13F);
+            this.btnTumSekmeleriKapat.ItemAppearance.Pressed.Options.UseFont = true;
             this.btnTumSekmeleriKapat.Name = "btnTumSekmeleriKapat";
             this.btnTumSekmeleriKapat.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnTumSekmeleriKapat_ItemClick);
+            // 
+            // btnSekmeyiKapat
+            // 
+            this.btnSekmeyiKapat.Caption = "Sekmeyi Kapat";
+            this.btnSekmeyiKapat.Id = 2;
+            this.btnSekmeyiKapat.ItemAppearance.Hovered.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnSekmeyiKapat.ItemAppearance.Hovered.ForeColor = System.Drawing.Color.Maroon;
+            this.btnSekmeyiKapat.ItemAppearance.Hovered.Options.UseFont = true;
+            this.btnSekmeyiKapat.ItemAppearance.Hovered.Options.UseForeColor = true;
+            this.btnSekmeyiKapat.ItemAppearance.Normal.Font = new System.Drawing.Font("Jura", 13F, System.Drawing.FontStyle.Bold);
+            this.btnSekmeyiKapat.ItemAppearance.Normal.Options.UseFont = true;
+            this.btnSekmeyiKapat.ItemAppearance.Pressed.Font = new System.Drawing.Font("Jura", 13F);
+            this.btnSekmeyiKapat.ItemAppearance.Pressed.Options.UseFont = true;
+            this.btnSekmeyiKapat.Name = "btnSekmeyiKapat";
+            this.btnSekmeyiKapat.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnSekmeyiKapat_ItemClick);
             // 
             // txtUnvani
             // 
@@ -1736,107 +1789,107 @@
             this.layoutControlItem16});
             this.Root.LayoutMode = DevExpress.XtraLayout.Utils.LayoutMode.Table;
             this.Root.Name = "Root";
-            columnDefinition3.SizeType = System.Windows.Forms.SizeType.Percent;
-            columnDefinition3.Width = 100D;
+            columnDefinition1.SizeType = System.Windows.Forms.SizeType.Percent;
+            columnDefinition1.Width = 100D;
             this.Root.OptionsTableLayoutGroup.ColumnDefinitions.AddRange(new DevExpress.XtraLayout.ColumnDefinition[] {
-            columnDefinition3});
-            rowDefinition65.Height = 32D;
-            rowDefinition65.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition66.Height = 5D;
-            rowDefinition66.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition67.Height = 32D;
-            rowDefinition67.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition68.Height = 15D;
-            rowDefinition68.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition69.Height = 32D;
-            rowDefinition69.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition70.Height = 5D;
-            rowDefinition70.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition71.Height = 32D;
-            rowDefinition71.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition72.Height = 15D;
-            rowDefinition72.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition73.Height = 32D;
-            rowDefinition73.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition74.Height = 5D;
-            rowDefinition74.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition75.Height = 32D;
-            rowDefinition75.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition76.Height = 15D;
-            rowDefinition76.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition77.Height = 32D;
-            rowDefinition77.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition78.Height = 5D;
-            rowDefinition78.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition79.Height = 32D;
-            rowDefinition79.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition80.Height = 15D;
-            rowDefinition80.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition81.Height = 32D;
-            rowDefinition81.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition82.Height = 5D;
-            rowDefinition82.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition83.Height = 32D;
-            rowDefinition83.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition84.Height = 15D;
-            rowDefinition84.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition85.Height = 32D;
-            rowDefinition85.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition86.Height = 5D;
-            rowDefinition86.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition87.Height = 32D;
-            rowDefinition87.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition88.Height = 15D;
-            rowDefinition88.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition89.Height = 32D;
-            rowDefinition89.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition90.Height = 5D;
-            rowDefinition90.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition91.Height = 32D;
-            rowDefinition91.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition92.Height = 15D;
-            rowDefinition92.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition93.Height = 32D;
-            rowDefinition93.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition94.Height = 5D;
-            rowDefinition94.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition95.Height = 32D;
-            rowDefinition95.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition96.Height = 100D;
-            rowDefinition96.SizeType = System.Windows.Forms.SizeType.Percent;
+            columnDefinition1});
+            rowDefinition1.Height = 32D;
+            rowDefinition1.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition2.Height = 5D;
+            rowDefinition2.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition3.Height = 32D;
+            rowDefinition3.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition4.Height = 15D;
+            rowDefinition4.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition5.Height = 32D;
+            rowDefinition5.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition6.Height = 5D;
+            rowDefinition6.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition7.Height = 32D;
+            rowDefinition7.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition8.Height = 15D;
+            rowDefinition8.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition9.Height = 32D;
+            rowDefinition9.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition10.Height = 5D;
+            rowDefinition10.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition11.Height = 32D;
+            rowDefinition11.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition12.Height = 15D;
+            rowDefinition12.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition13.Height = 32D;
+            rowDefinition13.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition14.Height = 5D;
+            rowDefinition14.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition15.Height = 32D;
+            rowDefinition15.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition16.Height = 15D;
+            rowDefinition16.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition17.Height = 32D;
+            rowDefinition17.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition18.Height = 5D;
+            rowDefinition18.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition19.Height = 32D;
+            rowDefinition19.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition20.Height = 15D;
+            rowDefinition20.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition21.Height = 32D;
+            rowDefinition21.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition22.Height = 5D;
+            rowDefinition22.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition23.Height = 32D;
+            rowDefinition23.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition24.Height = 15D;
+            rowDefinition24.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition25.Height = 32D;
+            rowDefinition25.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition26.Height = 5D;
+            rowDefinition26.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition27.Height = 32D;
+            rowDefinition27.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition28.Height = 15D;
+            rowDefinition28.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition29.Height = 32D;
+            rowDefinition29.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition30.Height = 5D;
+            rowDefinition30.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition31.Height = 32D;
+            rowDefinition31.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition32.Height = 100D;
+            rowDefinition32.SizeType = System.Windows.Forms.SizeType.Percent;
             this.Root.OptionsTableLayoutGroup.RowDefinitions.AddRange(new DevExpress.XtraLayout.RowDefinition[] {
-            rowDefinition65,
-            rowDefinition66,
-            rowDefinition67,
-            rowDefinition68,
-            rowDefinition69,
-            rowDefinition70,
-            rowDefinition71,
-            rowDefinition72,
-            rowDefinition73,
-            rowDefinition74,
-            rowDefinition75,
-            rowDefinition76,
-            rowDefinition77,
-            rowDefinition78,
-            rowDefinition79,
-            rowDefinition80,
-            rowDefinition81,
-            rowDefinition82,
-            rowDefinition83,
-            rowDefinition84,
-            rowDefinition85,
-            rowDefinition86,
-            rowDefinition87,
-            rowDefinition88,
-            rowDefinition89,
-            rowDefinition90,
-            rowDefinition91,
-            rowDefinition92,
-            rowDefinition93,
-            rowDefinition94,
-            rowDefinition95,
-            rowDefinition96});
+            rowDefinition1,
+            rowDefinition2,
+            rowDefinition3,
+            rowDefinition4,
+            rowDefinition5,
+            rowDefinition6,
+            rowDefinition7,
+            rowDefinition8,
+            rowDefinition9,
+            rowDefinition10,
+            rowDefinition11,
+            rowDefinition12,
+            rowDefinition13,
+            rowDefinition14,
+            rowDefinition15,
+            rowDefinition16,
+            rowDefinition17,
+            rowDefinition18,
+            rowDefinition19,
+            rowDefinition20,
+            rowDefinition21,
+            rowDefinition22,
+            rowDefinition23,
+            rowDefinition24,
+            rowDefinition25,
+            rowDefinition26,
+            rowDefinition27,
+            rowDefinition28,
+            rowDefinition29,
+            rowDefinition30,
+            rowDefinition31,
+            rowDefinition32});
             this.Root.Padding = new DevExpress.XtraLayout.Utils.Padding(3, 3, 3, 3);
             this.Root.Size = new System.Drawing.Size(344, 666);
             this.Root.TextVisible = false;
@@ -2772,107 +2825,107 @@
             this.layoutControlItem32});
             this.layoutControlGroup1.LayoutMode = DevExpress.XtraLayout.Utils.LayoutMode.Table;
             this.layoutControlGroup1.Name = "Root";
-            columnDefinition4.SizeType = System.Windows.Forms.SizeType.Percent;
-            columnDefinition4.Width = 100D;
+            columnDefinition2.SizeType = System.Windows.Forms.SizeType.Percent;
+            columnDefinition2.Width = 100D;
             this.layoutControlGroup1.OptionsTableLayoutGroup.ColumnDefinitions.AddRange(new DevExpress.XtraLayout.ColumnDefinition[] {
-            columnDefinition4});
-            rowDefinition97.Height = 32D;
-            rowDefinition97.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition98.Height = 5D;
-            rowDefinition98.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition99.Height = 32D;
-            rowDefinition99.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition100.Height = 15D;
-            rowDefinition100.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition101.Height = 32D;
-            rowDefinition101.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition102.Height = 5D;
-            rowDefinition102.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition103.Height = 32D;
-            rowDefinition103.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition104.Height = 15D;
-            rowDefinition104.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition105.Height = 32D;
-            rowDefinition105.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition106.Height = 5D;
-            rowDefinition106.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition107.Height = 32D;
-            rowDefinition107.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition108.Height = 15D;
-            rowDefinition108.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition109.Height = 32D;
-            rowDefinition109.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition110.Height = 5D;
-            rowDefinition110.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition111.Height = 32D;
-            rowDefinition111.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition112.Height = 15D;
-            rowDefinition112.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition113.Height = 32D;
-            rowDefinition113.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition114.Height = 5D;
-            rowDefinition114.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition115.Height = 32D;
-            rowDefinition115.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition116.Height = 15D;
-            rowDefinition116.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition117.Height = 32D;
-            rowDefinition117.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition118.Height = 5D;
-            rowDefinition118.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition119.Height = 32D;
-            rowDefinition119.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition120.Height = 15D;
-            rowDefinition120.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition121.Height = 32D;
-            rowDefinition121.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition122.Height = 5D;
-            rowDefinition122.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition123.Height = 32D;
-            rowDefinition123.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition124.Height = 15D;
-            rowDefinition124.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition125.Height = 32D;
-            rowDefinition125.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition126.Height = 5D;
-            rowDefinition126.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition127.Height = 32D;
-            rowDefinition127.SizeType = System.Windows.Forms.SizeType.Absolute;
-            rowDefinition128.Height = 100D;
-            rowDefinition128.SizeType = System.Windows.Forms.SizeType.Percent;
+            columnDefinition2});
+            rowDefinition33.Height = 32D;
+            rowDefinition33.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition34.Height = 5D;
+            rowDefinition34.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition35.Height = 32D;
+            rowDefinition35.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition36.Height = 15D;
+            rowDefinition36.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition37.Height = 32D;
+            rowDefinition37.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition38.Height = 5D;
+            rowDefinition38.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition39.Height = 32D;
+            rowDefinition39.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition40.Height = 15D;
+            rowDefinition40.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition41.Height = 32D;
+            rowDefinition41.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition42.Height = 5D;
+            rowDefinition42.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition43.Height = 32D;
+            rowDefinition43.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition44.Height = 15D;
+            rowDefinition44.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition45.Height = 32D;
+            rowDefinition45.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition46.Height = 5D;
+            rowDefinition46.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition47.Height = 32D;
+            rowDefinition47.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition48.Height = 15D;
+            rowDefinition48.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition49.Height = 32D;
+            rowDefinition49.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition50.Height = 5D;
+            rowDefinition50.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition51.Height = 32D;
+            rowDefinition51.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition52.Height = 15D;
+            rowDefinition52.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition53.Height = 32D;
+            rowDefinition53.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition54.Height = 5D;
+            rowDefinition54.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition55.Height = 32D;
+            rowDefinition55.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition56.Height = 15D;
+            rowDefinition56.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition57.Height = 32D;
+            rowDefinition57.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition58.Height = 5D;
+            rowDefinition58.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition59.Height = 32D;
+            rowDefinition59.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition60.Height = 15D;
+            rowDefinition60.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition61.Height = 32D;
+            rowDefinition61.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition62.Height = 5D;
+            rowDefinition62.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition63.Height = 32D;
+            rowDefinition63.SizeType = System.Windows.Forms.SizeType.Absolute;
+            rowDefinition64.Height = 100D;
+            rowDefinition64.SizeType = System.Windows.Forms.SizeType.Percent;
             this.layoutControlGroup1.OptionsTableLayoutGroup.RowDefinitions.AddRange(new DevExpress.XtraLayout.RowDefinition[] {
-            rowDefinition97,
-            rowDefinition98,
-            rowDefinition99,
-            rowDefinition100,
-            rowDefinition101,
-            rowDefinition102,
-            rowDefinition103,
-            rowDefinition104,
-            rowDefinition105,
-            rowDefinition106,
-            rowDefinition107,
-            rowDefinition108,
-            rowDefinition109,
-            rowDefinition110,
-            rowDefinition111,
-            rowDefinition112,
-            rowDefinition113,
-            rowDefinition114,
-            rowDefinition115,
-            rowDefinition116,
-            rowDefinition117,
-            rowDefinition118,
-            rowDefinition119,
-            rowDefinition120,
-            rowDefinition121,
-            rowDefinition122,
-            rowDefinition123,
-            rowDefinition124,
-            rowDefinition125,
-            rowDefinition126,
-            rowDefinition127,
-            rowDefinition128});
+            rowDefinition33,
+            rowDefinition34,
+            rowDefinition35,
+            rowDefinition36,
+            rowDefinition37,
+            rowDefinition38,
+            rowDefinition39,
+            rowDefinition40,
+            rowDefinition41,
+            rowDefinition42,
+            rowDefinition43,
+            rowDefinition44,
+            rowDefinition45,
+            rowDefinition46,
+            rowDefinition47,
+            rowDefinition48,
+            rowDefinition49,
+            rowDefinition50,
+            rowDefinition51,
+            rowDefinition52,
+            rowDefinition53,
+            rowDefinition54,
+            rowDefinition55,
+            rowDefinition56,
+            rowDefinition57,
+            rowDefinition58,
+            rowDefinition59,
+            rowDefinition60,
+            rowDefinition61,
+            rowDefinition62,
+            rowDefinition63,
+            rowDefinition64});
             this.layoutControlGroup1.Padding = new DevExpress.XtraLayout.Utils.Padding(3, 3, 3, 3);
             this.layoutControlGroup1.Size = new System.Drawing.Size(344, 666);
             this.layoutControlGroup1.TextVisible = false;
@@ -3075,8 +3128,9 @@
             // pmMdiManager
             // 
             this.pmMdiManager.LinksPersistInfo.AddRange(new DevExpress.XtraBars.LinkPersistInfo[] {
-            new DevExpress.XtraBars.LinkPersistInfo(this.btnAktifSekmeHaricTumSekmeleriKapat),
-            new DevExpress.XtraBars.LinkPersistInfo(this.btnTumSekmeleriKapat)});
+            new DevExpress.XtraBars.LinkPersistInfo(this.btnSekmeyiKapat),
+            new DevExpress.XtraBars.LinkPersistInfo(this.btnAktifSekmeHaricTumSekmeleriKapat, true),
+            new DevExpress.XtraBars.LinkPersistInfo(this.btnTumSekmeleriKapat, true)});
             this.pmMdiManager.Manager = this.barManager1;
             this.pmMdiManager.Name = "pmMdiManager";
             // 
@@ -3084,7 +3138,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1487, 765);
+            this.ClientSize = new System.Drawing.Size(1186, 765);
             this.Controls.Add(this.panelContainer1);
             this.Controls.Add(this.barDockControlLeft);
             this.Controls.Add(this.barDockControlRight);
@@ -3327,5 +3381,8 @@
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem30;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem31;
         private DevExpress.XtraLayout.LayoutControlItem layoutControlItem32;
+        private DevExpress.XtraNavBar.NavBarSeparatorItem navBarSeparatorItem1;
+        private DevExpress.XtraNavBar.NavBarItem btnYetkileriGuncelle;
+        private DevExpress.XtraBars.BarButtonItem btnSekmeyiKapat;
     }
 }
