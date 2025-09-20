@@ -4,6 +4,22 @@
     "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.WebServis\\YazilimDestekSistemi.WebServis.csproj": {}
   },
   "projects": {
+    "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.Model\\YazilimDestekSistemi.Model.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.Model\\YazilimDestekSistemi.Model.csproj",
+        "projectName": "YazilimDestekSistemi.Model",
+        "projectPath": "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.Model\\YazilimDestekSistemi.Model.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.WebServis\\YazilimDestekSistemi.WebServis.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -37,7 +53,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.Model\\YazilimDestekSistemi.Model.csproj": {
+                "projectPath": "C:\\Projeler\\13. Yazılım Destek Sistemi\\YazilimDestekSistemi.Model\\YazilimDestekSistemi.Model.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +76,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
             "NLog.Web.AspNetCore": {
               "target": "Package",
               "version": "[5.5.2, )"
@@ -63,6 +87,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.6.2, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
             }
           },
           "imports": [

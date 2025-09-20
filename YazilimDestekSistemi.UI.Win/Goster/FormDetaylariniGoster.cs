@@ -57,6 +57,7 @@ namespace YazilimDestekSistemi.UI.Win.Goster
                 return frm.DialogResult == DialogResult.OK ? frm.SecilenVeri : null;
             }
         }
+
         public SecimSonucu ListeFormunuOndeGoster(KartTuru kartTuru) //// , params object[] prm) 
         {
             using (var frm = (TForm)Activator.CreateInstance(typeof(TForm)))
